@@ -246,7 +246,7 @@ dependencies {
     // ------------------- Umeng (友盟) SDK -------------------
     implementation(libs.umeng.common)
     implementation(libs.umeng.asms)
-    implementation(libs.umeng.uyumao)
+
 
     // ------------------- 测试相关库 -------------------
     testImplementation(libs.junit)
